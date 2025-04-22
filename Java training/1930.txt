@@ -1,0 +1,26 @@
+1930
+cybercrime
+
+
+Victim Account number 40239902679 (SBI), fraud happened by upi transaction, several transaction happened on paytm from 24 october to 26 october that is not initiated by me. Total amount that is debited is 58972 and no debit sms is forwarded to me.
+Other Transaction ID / UTR Number are:-
+1. 329778264089
+2. 329778400538
+3. 329778410523
+4. 329778763584
+5. 366304446196
+6. 329778796363
+7. 329778844710
+8. 366340354113
+9. 329806372815
+10. 329879678473
+11. 329809603997
+12. 366404613649
+13. 366404672328
+14. 329874134140
+15. 329874237219
+16. 329978818578
+17. 329978827475
+18. 329978839972
+19. 329978877431
+20. 366507052023
